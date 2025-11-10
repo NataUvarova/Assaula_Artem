@@ -1,0 +1,40 @@
+body{
+  font-family: sans-serif;
+  background-color: #d4ddff;
+}
+header{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+main{
+        text-align: center;
+        background-color:#98FB98 ;
+}
+p{
+            text-align:left;
+}
+img{
+width:700px;
+        }
+footer{
+    background-color:#bafffa;
+    margin:-16px;
+    text-align:center;
+}
+ul{
+    text-align:left;
+}
+footer p{
+    text-align:center;
+    background-color:green;
+    padding:20px;
+}
+footer a{
+    height: 40px;
+    width: 45px;
+}
+main p{
+    text-align:center;
+}
